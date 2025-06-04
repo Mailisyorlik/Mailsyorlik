@@ -7,7 +7,7 @@ I am a Research Associate at Carbon Direct, where I work on a variety of topics:
 - Electricity/emissions modeling :zap:
 - Carbon accounting 📊
 - Financed emissions analysis 💸
-- Geospatial statistics 🌐. 
+- Geospatial statistics 🌐
 
 # 📖 Open Source Contributions
 I am currently working on the [BOOST](https://www.w3.org/community/boost-01/#:~:text=The%20Biomass%20Open%20Origin%20Standard,from%20source%20to%20end%2Duse.) biomass tracking data standard. 
