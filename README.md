@@ -2,7 +2,7 @@
 
 Hi, I'm Liam! 
 
-I am a Research Associate at Carbon Direct, where I work on a variety of topics: 
+I am a Research Associate at Carbon Direct, where I work on a variety of things: 
 - NLP, including topic modeling and information extraction of sustainability-related documents :robot:
 - Electricity/emissions modeling :zap:
 - Carbon accounting 📊
